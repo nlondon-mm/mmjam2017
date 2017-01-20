@@ -415,7 +415,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 202307275324e45a5921c4faa927884d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goddessController: {fileID: 0}
+  goddessController: {fileID: 1221812920}
 --- !u!4 &2014049255
 Transform:
   m_ObjectHideFlags: 0
